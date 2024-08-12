@@ -43,3 +43,30 @@ body {
     border-radius: 1rem;
     border:none;
 }
+
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    height: 46px;
+    text-align: center;
+    background-color: #191913;
+    color:#fff ;
+    border-radius: 1rem;
+    border:none;
+}
+
+#msg{
+    color: #ffffc7;
+    font-size: 5vmin;
+}
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+.hide{
+    display: none;
+}
